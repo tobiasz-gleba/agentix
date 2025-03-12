@@ -1,3 +1,3 @@
 # agentix
 
-[https://agentix.pl](link)
+[agentix.pl](https://agentix.pl)
